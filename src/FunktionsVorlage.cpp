@@ -35,11 +35,11 @@
  * can arise due to wrong usage.
  */
 
-// int foo(int x) {
-  /* !TODO: gpohl 2021-01.01
+/* int foo(int x) {
+  !TODO: gpohl 2021-01.01
   ... not longer than 2000 lines. */
 
-  // return -1;
-}
+  return -1;
+} */
 
 /* End of filename.cpp */
