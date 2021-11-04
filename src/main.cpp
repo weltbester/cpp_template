@@ -52,7 +52,7 @@ class human : public std::string {
         // Operators (new, delete ...)
     
         // Methods
-}
+};
 
 /* PROTOTYPES */
 
