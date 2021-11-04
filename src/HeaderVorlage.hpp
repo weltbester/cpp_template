@@ -27,4 +27,4 @@
 
 // Makros, Declarations, ...
 
-#endif */ HEADERVORLAGE_HPP */
+#endif /* HEADERVORLAGE_HPP */
