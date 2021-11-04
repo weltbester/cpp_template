@@ -1,5 +1,5 @@
 /** 
- * File: filename.hpp
+ * File: HeaderVorlage.hpp
  * Author: Georg Pohl
  * Date of creation: 1st of January 2021
  * Version: 1.0
@@ -14,8 +14,8 @@
  *
  * Copyright (C) Jan. 2021: Georg Pohl, 70174 Stuttgart
  */
-#ifndef FILENAME_HPP_
-#define FILENAME_HPP_
+#ifndef HEADERVORLAGE_HPP
+#define HEADERVORLAGE_HPP
 
 // no absolute path entries
 #include <iostream>
@@ -27,5 +27,4 @@
 
 // Makros, Declarations, ...
 
-#endif */ FILENAME_HPP_ */
-/* End of HeaderVorlage.hpp */
+#endif */ HEADERVORLAGE_HPP */
