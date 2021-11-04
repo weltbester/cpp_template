@@ -39,7 +39,7 @@
   /* !TODO: gpohl 2021-01.01
   ... not longer than 2000 lines. */
 
-  return EXIT_SUCCESS;
+  // return -1;
 }
 
 /* End of filename.cpp */
