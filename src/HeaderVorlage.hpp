@@ -3,7 +3,7 @@
  * Author: Georg Pohl
  * Date of creation: 1st of January 2021
  * Version: 1.0
- * Last change: 1st of January 2021
+ * Last change: 4th of November 2021
  * -------------------------------------
  * Implementation notes: <functionName>
  * -------------------------------------
@@ -26,7 +26,6 @@
 // Constants
 
 // Makros, Declarations, ...
-  int foo(int x);
 
 #endif */ FILENAME_HPP_ */
-/* End of filename.hpp */
+/* End of HeaderVorlage.hpp */
