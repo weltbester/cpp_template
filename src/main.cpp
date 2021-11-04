@@ -57,7 +57,7 @@ class human : public std::string {
 /* PROTOTYPES */
 
 
-int main(int argc, const char **argv) {
+int main() {
   /* !TODO: gpohl 2021-01-01
   Put code in here... */
 
